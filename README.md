@@ -1,4 +1,4 @@
-Website: https://zanderchen2006.github.io
+Website: https://zanderchen.de
 
 - 👋 Hi, I’m @zanderchen2006
 - 👀 I’m interested in coding.
