@@ -1,6 +1,4 @@
-Website: https://zanderchen.de
-
-- 👋 Hi, I’m @zanderchen2006
-- 👀 I’m interested in coding.
+- 👋 Hi, I’m @zanderchen2006  
+- 👀 I’m interested in coding.  
+- 🌐 Visit my website: [zanderchen.de](https://zanderchen.de)  
 - 📫 Reach me at contactattimswebsite@gmail.com
-
